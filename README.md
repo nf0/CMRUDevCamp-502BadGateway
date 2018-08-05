@@ -2,7 +2,7 @@
 
 This is a sample file of READEME.md
 
-1. Bee
+1. Bee (Satawat Khanthahom)
 2. Golf Juta Jumpatong
 3. Keng 
 4. iChristmas
