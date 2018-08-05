@@ -1,0 +1,5 @@
+Hello this is a activity.txt 
+And those are things tomorrow
+- Wordpress Theme Modification
+- OS Preformance Tuning 
+- Code Review (StudentACT)
